@@ -1,7 +1,7 @@
 **Required Python Packages**
 To ensure the code runs successfully, please install the following Python packages:
 
-**# Instructions for Using the Code**
+**Instructions for Using the Code**
 The Python code reads an .xlsx file and uses "Sheet1" as the source data.
 
 Ensure the following structure for the data in "Sheet1":
@@ -18,9 +18,5 @@ Cell C1 and beyond: The names of the X variables
 
 
 # Please ensure that you install below all python package:
-pip install pandas
-pip install statsmodels
-pip install numpy
-pip install tkintertable
-pip install openpyxl
+pip install pandas statsmodels numpy tkintertable openpyxl
 
