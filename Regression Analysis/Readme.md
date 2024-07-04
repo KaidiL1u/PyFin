@@ -1,17 +1,5 @@
 **Required Python Packages**
-
 To ensure the code runs successfully, please install the following Python packages:
-# Install pandas
-pip install pandas
-# Install statsmodels
-pip install statsmodels
-# Install numpy
-pip install numpy
-# Install tkintertable
-pip install tkintertable
-# Install openpyxl
-pip install openpyxl
-
 
 **# Instructions for Using the Code**
 The Python code reads an .xlsx file and uses "Sheet1" as the source data.
@@ -27,3 +15,12 @@ Row 1 should contain the headers for each variable. Do not leave any cells blank
 Cell A1: 'Year'
 Cell B1: The name of the Y variable
 Cell C1 and beyond: The names of the X variables
+
+
+# Please ensure that you install below all python package:
+pip install pandas
+pip install statsmodels
+pip install numpy
+pip install tkintertable
+pip install openpyxl
+
