@@ -1,4 +1,4 @@
-**Instructions for Using the Code**
+# Instructions for Using the Code
 The Python code reads an .xlsx file and uses "Sheet1" as the source data.
 
 Ensure the following structure for the data in "Sheet1":
@@ -13,7 +13,6 @@ Cell A1: 'Year'
 Cell B1: The name of the Y variable
 Cell C1 and beyond: The names of the X variables
 
-
-# Please ensure that you install below all python package:
+# Please ensure that you install below all python package
 pip install pandas statsmodels numpy tkintertable openpyxl
 
