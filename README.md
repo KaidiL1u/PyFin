@@ -1,4 +1,4 @@
-# Disclaimer for using PyFin
+# Disclaimer
 
 The codes provided in this repository are available for free use under the following conditions:
 
