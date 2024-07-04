@@ -1,6 +1,3 @@
-**Required Python Packages**
-To ensure the code runs successfully, please install the following Python packages:
-
 **Instructions for Using the Code**
 The Python code reads an .xlsx file and uses "Sheet1" as the source data.
 
