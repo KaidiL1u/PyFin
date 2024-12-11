@@ -1,4 +1,4 @@
-⚖️ Disclaimer
+# **⚖️ Disclaimer**
 The code provided in this repository is available for free use under the following terms and conditions:
 
 📜 Lawful Use:
