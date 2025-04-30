@@ -1,4 +1,5 @@
-# 👋 Hey there! I'm Kaidi Liu  
+# 👋 Hey there! I'm Kaidi Liu 
+https://www.linkedin.com/in/kaidiliu 
 
 💼 **Finance Professional by Day** | 💻 **Tech Enthusiast by Passion**  
 
